@@ -1,0 +1,3 @@
+[submodule "canvasjs"]
+	path = canvasjs
+	url = git://github.com/kommander/canvasjs.git
